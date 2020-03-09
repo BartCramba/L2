@@ -1,4 +1,4 @@
-package 932;
+package Lab2;
 
 /**
  * Hello world!
